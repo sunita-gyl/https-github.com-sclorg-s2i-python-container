@@ -1,0 +1,662 @@
+[31-Oct-2016 06:20:02 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/anton1/public_html/kata2sendiri.php on line 13
+[31-Oct-2016 06:20:02 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/anton1/public_html/kata2sendiri.php on line 13
+[31-Oct-2016 06:25:07 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/anton1/public_html/kata2sendiri.php on line 13
+[31-Oct-2016 06:25:07 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/anton1/public_html/kata2sendiri.php on line 13
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/anton1/public_html/index.php on line 2
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/anton1/public_html/index.php on line 3
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/user.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:26:09 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/motivasi.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/anton1/public_html/index.php on line 2
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/anton1/public_html/index.php on line 3
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/user.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:26:33 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/motivasi.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:28:36 UTC] PHP Warning:  opendir(myToken): failed to open dir: No such file or directory in /home/anton1/public_html/index.php on line 2
+[31-Oct-2016 06:28:36 UTC] PHP Warning:  readdir() expects parameter 1 to be resource, boolean given in /home/anton1/public_html/index.php on line 3
+[31-Oct-2016 06:30:04 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:07 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:10 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:11 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:12 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:14 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:17 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:30:19 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:30:19 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/user.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:30:19 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:30:19 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/motivasi.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:30:19 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:35:06 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:40:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:09 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:11 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:12 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:13 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:45:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:50:08 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:04 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:55:05 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 06:59:16 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:59:16 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/user.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 50
+[31-Oct-2016 06:59:16 UTC] PHP Warning:  file_get_contents(): http:// wrapper is disabled in the server configuration by allow_url_fopen=0 in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 06:59:16 UTC] PHP Warning:  file_get_contents(http://anton.vba.nz/motivasi.php): failed to open stream: no suitable wrapper could be found in /home/anton1/public_html/index.php on line 52
+[31-Oct-2016 07:00:15 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:16 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[31-Oct-2016 07:00:18 UTC] PHP Deprecated:  Function ereg() is deprecated in /home/anton1/public_html/kata2sendiri.php on line 16
+[21-Aug-2017 07:18:48 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:18:48 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:22:11 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:22:11 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:23:17 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:23:17 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/bijak.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:25:10 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:25:10 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:25:20 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:25:20 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motivasi.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:26:22 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:26:22 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:27:07 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:27:07 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motivasi.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:31:09 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:31:09 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:32:34 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:32:34 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/bijak.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:40:25 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:40:25 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motivasi.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 07:42:28 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 07:42:28 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 08:04:49 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:04:49 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 08:21:42 Europe/Berlin] PHP Warning:  include(b2.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'b2.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:42 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:42 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/bijak.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 08:21:45 Europe/Berlin] PHP Warning:  include(b.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:45 Europe/Berlin] PHP Warning:  include(): Failed opening 'b.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:45 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:45 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 08:21:48 Europe/Berlin] PHP Warning:  include(b.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:48 Europe/Berlin] PHP Warning:  include(): Failed opening 'b.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:48 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 50
+[21-Aug-2017 08:21:48 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 52
+[21-Aug-2017 08:28:17 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in /home/alifastc/public_html/b/u/index.php on line 2
+[21-Aug-2017 08:43:26 Europe/Berlin] PHP Warning:  include(bg2.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg2.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:26 Europe/Berlin] PHP Warning:  include(bg4.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:26 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg4.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:26 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:34 Europe/Berlin] PHP Warning:  include(bg2.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg2.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:34 Europe/Berlin] PHP Warning:  include(bg3.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:34 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg3.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:34 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:39 Europe/Berlin] PHP Warning:  include(bg1.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg1.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:39 Europe/Berlin] PHP Warning:  include(bg4.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:39 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg4.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:43:39 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:44:04 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 08:45:46 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'bg' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:46:28 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 72
+[21-Aug-2017 08:48:37 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) in /home/alifastc/public_html/b/u/index.php on line 77
+[21-Aug-2017 08:48:57 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 08:49:00 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'http' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 08:55:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 08:55:37 Europe/Berlin] PHP Warning:  include(bg.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:55:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:55:37 Europe/Berlin] PHP Warning:  include(bg3.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:55:37 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg3.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:55:37 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 08:55:38 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/bijak.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  include(bg.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  include(bg4.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg4.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:04:27 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motivasi.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  include(b1.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'b1.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  include(bg3.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg3.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:07:42 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  include(bg2.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg2.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  include(bg3.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg3.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:10 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/motto.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  include(b.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'b.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  include(bg4.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg4.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:27 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  include(b.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'b.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  include(bg4.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  include(): Failed opening 'bg4.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/user.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 54
+[21-Aug-2017 09:08:30 Europe/Berlin] PHP Warning:  file_get_contents(http://ali12.fastcomet.site/cinta.php): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /home/alifastc/public_html/b/u/index.php on line 56
+[21-Aug-2017 09:11:08 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 59
+[21-Aug-2017 09:34:07 Europe/Berlin] PHP Parse error:  syntax error, unexpected '<' in /home/alifastc/public_html/b/u/index.php on line 78
+[21-Aug-2017 09:34:29 Europe/Berlin] PHP Parse error:  syntax error, unexpected 'https' (T_STRING), expecting ',' or ';' in /home/alifastc/public_html/b/u/index.php on line 80
+[21-Aug-2017 15:53:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:10 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:10 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:11 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:11 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:12 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:12 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:16 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:53:16 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:53:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:10 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:54:10 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:54:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:10 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:10 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:12 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:12 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:55:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:56:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:57:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:58:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 15:59:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:00:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:08 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:08 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:08 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:10 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:10 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:11 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:11 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:14 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:14 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:15 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:15 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:18 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:01:20 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:20 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:01:20 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:02:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:03:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:04:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:04:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:03 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:03 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:03 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:04 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:04 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:04 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:05 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:05 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:05 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:06 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:06 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:06 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:07 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:07 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:07 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:09 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:09 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:09 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:10 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:10 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:10 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:11 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:11 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:11 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:12 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:13 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:14 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:14 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:14 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:15 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:15 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:15 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:16 Europe/Berlin] PHP Deprecated:  Function ereg() is deprecated in /home/alifastc/public_html/b/u/komen.php on line 51
+[21-Aug-2017 16:05:16 Europe/Berlin] PHP Warning:  include(motivasi.php): failed to open stream: No such file or directory in /home/alifastc/public_html/b/u/komen.php on line 63
+[21-Aug-2017 16:05:16 Europe/Berlin] PHP Warning:  include(): Failed opening 'motivasi.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/alifastc/public_html/b/u/komen.php on line 63
